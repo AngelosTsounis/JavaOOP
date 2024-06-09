@@ -1,4 +1,6 @@
-package gr.aueb.cf.oopProjects;
+package gr.aueb.cf.oopProjects.chapter14HW;
+
+import gr.aueb.cf.oopProjects.chapter14HW.MathHelper;
 
 public class MathHelperMain {
     public static void main(String[] args) {

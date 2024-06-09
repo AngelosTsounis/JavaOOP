@@ -1,4 +1,4 @@
-package gr.aueb.cf.oopProjects;
+package gr.aueb.cf.oopProjects.chapter12HW;
 
 public class UserCredentials {
 

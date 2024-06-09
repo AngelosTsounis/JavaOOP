@@ -1,4 +1,7 @@
-package gr.aueb.cf.oopProjects;
+package gr.aueb.cf.oopProjects.chapter12HW;
+
+import gr.aueb.cf.oopProjects.chapter12HW.User;
+import gr.aueb.cf.oopProjects.chapter12HW.UserCredentials;
 
 public class UserMain {
     public static void main(String[] args) {
